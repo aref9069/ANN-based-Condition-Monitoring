@@ -6,7 +6,8 @@ Remaining Useful Life Estimation of Rolling Element Bearings Wavelet Packet Deco
 
 This repository contains the implementation of the methodology used in our paper: 
 Rohani Bastami A., Aasi A., Arghand H.A. (2018). Estimation of Remaining Useful Life of Rolling Element Bearings
-Using Wavelet Packet Decomposition and Artificial Neural Network. Iran Journal of Science and Technology, Electrical Engineering.
+Using Wavelet Packet Decomposition and Artificial Neural Network. Iran Journal of Science and Technology, Electrical Engineering. 
+Doi: https://doi.org/10.1007/s40998-018-0108-y
 
 Features
 
